@@ -1,0 +1,28 @@
++++
+date = 2019-01-21T16:56:15Z
+description = ""
+draft = true
+slug = "scratch"
+title = "scratch"
+
++++
+
+## Marketing the Work
+
+You can't be empathetic to someone you know exists. When you work remotely, no one knows what you are working on. More importantly, no one knows your successes, failures or plans. It is not enough to send an email to all the teams or do an `@here` in Slack. No, you have to create a marketing plan that helps educate and gets people excited about the work. This is a ton of work, but it allows you to bring richness back to the conversation. You can send your message with a backstory that allows people to believe in what you're doing.
+
+This has bitten me in the past with a project. My initial draft for the design allowed for me to simply pull from logs to get some information I needed. I wrote a design document and worked to implement a proof of concept to ensure it was a valid methodology. Unfortunately, it turned out using the logs would have been prohibitively expensive to collect the necessary data. I would have to duck tape a lot of different systems based on discovered heuristics that would require constant care. As such I changed the design to use a service with a provided client instead to make it easy for teams to use it. While I did the work, I failed to include this backstory and context when it came time to market the project for adoption. I would be in meetings justifying my design by explaining how my proof of concept failed when teams would ask why I can't just get the data from logs!
+
+While you can't guarantee people will read the log of your work, you can provide the backstory with references when you talk about it. Of course, this presumes that you are making an effort to clearly log all your work in a reasonable level of detail. The goal is not to write everything down, but rather help the person you are communicating come to an understanding more quickly. In a face to face conversation you can casually mention shared experiences or tools that immediately guide the conversation in the right direction. When you're remote, you have no such luck. Bringing up some example is one easy way to derail your message. Trust me that I've failed at this more times than I'd like to count. The telltale sign of a poorly introduced example is that people immediately jump on details in the example. Instead, it is better to refer to your work log (whatever the format) and summarize the story.
+
+While it can certainly be tedious, if you can always refer back to decisions you made that provide concrete examples, you save a lot of time and energy communicating why some path was taken and help people trust your decisions. They see you did the work and can safely assume you're making decisions based on your experiences working on the problem.
+
+As a manager, it is even more critical to market the efforts of your team. It is too easy for a remote team to ignore the requests of another team because there is so little contact. To overcome this aspect, your marketing efforts are to help other managers and leadership see the benefit such that they will sponsor (help promote and push forward as if it is their own) the effort. The crux is to understand how your team's effort will help other teams meet goals. While, I'm certainly working on this process, one example I'll be working on in the new year is to try to map the company goals to clear metrics that can be moved by specific actions teams might take. My hope is that by clearly showing that becoming a sponsor of my project, the team will be able to clearly contribute to company defined goals in a meaningful way. Wish me luck!
+
+## Stay Positive
+
+It is really easy to become cynical working remotely. There are fewer high fives and smiles in the office. You may feel like you're working in a vacuum. Whatever it is, you need to be sure you're staying positive. This doesn't mean acting as if everything is great all the time. It is a function of how you frame challenges and changes when they come up. For example, organizational changes can often be daunting. You might feel like your team became irrelevant with a recent leadership change or re-org. When you talk to team members about this, it is important to stay positive and frame the changes such that people can feel confident when things settle down. For example, for most people, org changes have little impact on day to day life. Bugs still need to be fixed and features written. Focusing on the here and now is a great way to stave off the FUD until you learn more.
+
+As a leader, it is a good time to listen to folks on your team. It is important to understand what concerns them most. When you do comment, the goal is not to assuage any fears, but to help provide perspective. It is important to recognize this is a job and not your entire life. Big changes can be pretty scary, especially as many people invest themselves in their work. Even though it is not intended to be personal, it often is. When change happens, it provides a good opportunity to help people decouple themselves from what is happening in the business in order to help get the work done that is necessary today and prepare them to reinvest in the future when things feel more stable.
+
+One good example that everyone experiences is when a key person leaves the company. I've had discussion with team members and point out that person had been here a long time and likely wanted something new

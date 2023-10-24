@@ -1,0 +1,20 @@
++++
+date = 2021-09-10T04:47:49Z
+description = ""
+draft = false
+slug = "roadmapping-uncertainty"
+title = "What can you finish?"
+
++++
+
+As an Engineering Manager, I'm often trying to coach my team members to think about how to break down tasks. I recently had a more junior engineer take on a task we pointed as an 8. This is typically considered a large task and I did push to see if we could break it down. The team felt that the ticket really couldn't be broken down logically, so I said let's go for it and see what we learn. The junior engineer did a great job on the ticket and got the work done. It ran slightly over schedule as it was something in another team's codebase, but I was impressed with this junior engineer's ability to get the work done in roughly the time expected.
+
+The problem came when we needed to get it deployed to call it done. This portion took some time to coordinate with another team and some requirements changed slightly along the way. Eventually it got sorted out, but if someone were to look at a report, that ticket would have looked like we blew it with our pointing based on how long it took to get it over the line.
+
+On the one hand, we probably could have just broken the ticket up and pointed it differently, but I still don't think that would have solved the problem. We probably would have had a ticket that was something along the lines "Get Team X to deploy Foo" and pointed it as a 1, even though it was going to take more coordination. I'll admit that I might be missing some agile philosophy around story points, but the revelation was that breaking up the work based on the perspective of the system more than often results in bad estimates.
+
+I've since starting coaching team members to try to decouple our tickets from our applications. There is no reason to believe a ticket needs to complete a function within some application. For example, if a team has a "Implement the API" sort of ticket, that might be a day of coding to implement a few REST endpoints, but it also could be designing and implementing a complex suite of models and how to interact with them across 100s of endpoints. In the more complex case, even if you break it down into one story per-model, that doesn't mean you don't have one model that is clearly going to take 10x the time as the others. The realization I've had as this exercise has happened over and over again is that we should be scoping tickets to what we can call done within the sprint because the whole purpose of these systems is to visualize the work, not the architecture.
+
+Putting this into practice, one team I have needed to implement a bunch of contract tests across a large API. For some endpoints, it was reasonable to write all the tests within the scope of a ticket, but for others, they broke it down by different API calls. You could argue, it was frustrating because you couldn't say "Endpoint Foo is Done", but the reality was it didn't matter in the slightest. The understanding of when some part of the system was done ended up being communicated with the team. We could have also used epics or tags to formalize it if necessary, but it simply wasn't important. The team moved really quickly and we were consistently hitting goals.
+
+It is important with any task to remember the real problem being solved. I've seen monoliths that get broken up into micro services without much success. The tactic quickly becomes the goal and the result is typically simply a shift in where the pain is. We need to remember that when we make changes, we should measure those changes against the problem we're trying to solve. When it comes to how we break up problems for our ticket tracking system, the problem is not to mimic the architecture of the system. The problem is making sure the work is visible and that we can see the team velocity. It is perfectly OK to have a ticket that gets a feature to 60% finished because if you can do that 60% in one sprint, wrapping up the other 40% in another sprint means you've successfully made the work visible and can work to improve velocity.

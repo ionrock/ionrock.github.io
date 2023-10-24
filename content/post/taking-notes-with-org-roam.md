@@ -1,0 +1,22 @@
++++
+date = 2020-09-28T16:43:01Z
+description = ""
+draft = false
+slug = "taking-notes-with-org-roam"
+title = "Taking Notes with org-roam"
+
++++
+
+As a long time Emacs user and org-mode user, I was hopeful that [org-roam](https://www.orgroam.com/) could tame the plethora of paths offered for taking notes and keeping track of information. The key factor was understanding this article on [How to Take Smart-Notes with Org-mode](https://blog.jethro.dev/posts/how_to_take_smart_notes_org/). I'll admit that when I read the article I essentially just skimmed it and totally missed the way the author uses links to files as tags, rather than tag properties they talk about in the docs. Using tag file links works because org-roam's back link buffer. The back link buffer find other notes that link to the currently open note. For example, if I wanted to see all my notes about `emacs`, I'd open the `emacs` note and the back link buffer would have that listing for me.
+
+As for how I actually keep notes, it revolves around meetings. I've managed to distill my meeting notes to two general categories, Action Items and Context. I typically will quickly add Action Items as checkbox list items and then migrate them to my todo list if I can't complete them right away. The Context is pretty much everything else. This can include links, comments from other people, important facts or my own thoughts I don't want to forget about the topic.
+
+I did take the author's advice about using [org-journal](https://github.com/bastibe/org-journal). He mentions "fleeting" notes. As I understand it, the goal is to have a place to quickly jot down some information that you will return to and formally add to your more structured notes. While I've used my journal for quick notes, I more importantly have been using it for my TODOs. Org-journal will move unfinished TODO items to the next day automatically. This is surprisingly helpful as I can have a set of TODOs in the current journal, it integrates with the agenda, and I can avoid having to do any sort of archiving scheme.
+
+At one point, I tried [Bullet Journaling](https://bulletjournal.com/) in an actual paper journal. In some ways I appreciate the brakes it put on my brain, but not having easy access to links like Jira tickets made it really challenging to get much value from it.  I did start using some of the techniques in org-mode, but the constant moving around of information was too annoying. I realize this annoyance is a feature of Bujo in that it makes you question whether you really need to do something. I've found that it is easier for me to avoid adding aspirational TODO items I'll drop later and just focus on adding TODOs that are specific and clearly actionable.
+
+Finally, I did make some capture templates to automatically add some tag links for different note types. I have a tag template that adds a new tag file in a tag directory in my roam directory. I add a `tag` link so I can open the `tag` file to see all my tags in the back link buffer. I also created a `meeting` template that prefixes the title with a timestamp and adds a meeting tag. I'm not clear on how unique titles need to be in roam, but this lets me add things like `Jane Doe 1:1` and it is unique thanks to a date prefix. I also added the bookmarklet from the docs to capture links in my browser.  I keep these files in a `websites` folder to make it clear looking at the file system that these files aren't things I wrote.
+
+I do hope I can speed up some aspects. Adding new tags is reasonably quick, but I'd like to do things like tag the different people I met with along with the topics. I suspect I can add some capture templates or just take a minute to create tags for folks on my team and that I meet with often. I'm also still figuring out how to quickly access my notes. I was in a 1:1 and I needed to reference a previous 1:1. I'm sure there is a better way instead of going to my meeting tag and looking through the back link buffer to find the last meeting.
+
+Playing around with this concept of note taking has reinvigorated my desire to keep better track of information I come into contact with. I've noticed that unless I'm constantly tweaking my setup, I'll get bored and just stop.

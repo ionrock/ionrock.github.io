@@ -1,0 +1,24 @@
++++
+date = 2021-11-06T03:43:23Z
+description = ""
+draft = true
+slug = "shifting-process"
+title = "Shifting Process"
+
++++
+
+
+One interesting aspect of adopting agile tools or techniques in your development process is that feels like you're moving towards the perfect process. The team is firing on all cylinders, filling out perfect stories, and ceremonies are fun and reflective of the teams passion for making the customer elated. The promise of an agile process has been realized and life is good forever! But, we know that isn't true. Some people hear "ceremony" and immediately check out. Memories quickly rush to the top of mind about wasting hours in meetings with "stakeholders" that don't have a clue about how a system actually works. There is a reason most engineers have a strong aversion to Jira, with the requirements around writing clear "as a" stories likely making a contribution to the cause. The fact is agile processes don't work for everyone or every team, but that is OK.
+
+Teams rarely are static entities that have clearly predicted behavior. I've met with my team before believing I will know the reaction to an opportunity only to be completely surprised with the feedback. Teams also don't live in a clearly defined organization where everyone's role is well defined and well suited to all the folks that fill the roles. Organizations change leadership that enact change through restructuring. People leave teams and new folks arrive. Projects get canceled. Teams grow and shrink. Priorities shift all the time. But, again, this is OK.
+
+Change should be expected. This implies that any process you're trying to establish is likely to change, whether you want it to or not. The key is to understand what is really working and what doesn't.
+
+Stand ups provide a really good example of this inevitable shift in processes. Often times a team will adopt a daily standup. The team will meet and give updates. At first, updates aren't very normalized and the meeting takes too long. Eventually folks get the message to come prepared and keep the message quick and concise. The problem is now that everyone already knows what they are going to say, the meeting becomes a boring status check. Folks check out until it is their time to talk and inevitably they start missing the meeting. Since the meeting is not actually extremely helpful, no one minds, especially because people will drop their status in Slack. The team is quickly drawn to dropping the meeting and leaving status' in Slack. This seems like a nice observation, until people start asking who is actually reading and using the status updates? It quickly devolves into no stand ups and other meetings become where interesting conversations happen.
+
+I'm not arguing this is a failure of the team or a bad thing. The team is normalizing on what they want to spend time on. Someone might be a big talker with a real need for social interactions and stand up is where that need is met. The team might have hired for that sort of person, so stand ups work well until you hire someone who doesn't fit that mold. Timezones might throw a wrench in things as the company expands to include remote workers. There are tons of reasons why daily stand ups might stop being useful and that is OK. The important thing is that process of changing the process yields understanding about how folks see the work, the team, the mission and the vision.
+
+A really concrete example would be a team that argues they don't want to do stand ups because they have too much work to do. There is a ton of information packed in that statement. The team feels like they have been asked to do so much work that every 15 minutes count. They likely feel overcommitted and that there are high expectations within the organization on what is being delivered. There is a deadline of some sort that is perceived by the team that requires they drop stand ups in the hope they can focus on productive work. These feelings reflect facts about the alignment of the team that needs to be addressed. There is pressure. Maybe it is justified, but likely
+
+
+
