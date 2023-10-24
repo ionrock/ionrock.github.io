@@ -1,0 +1,10 @@
+baseURL = "https://ionrock.org/"
+disablePathToLower = true
+languageCode = "en-us"
+title = "Ionrock Dot Org"
+theme = "PaperMod"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
