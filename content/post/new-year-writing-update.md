@@ -10,7 +10,7 @@ title = "New Year Writing Update"
 
 +++
 
-I started this year [rebooting](reboot/) my blog and it seemed like a good time to check in on how things are going. As a reminder, here is what I planned on shooting for:
+I started this year [rebooting](/post/reboot/) my blog and it seemed like a good time to check in on how things are going. As a reminder, here is what I planned on shooting for:
 
 1. Write something at least once a week
 2. Focus on experiences, techniques, and strategies for becoming a better leader
