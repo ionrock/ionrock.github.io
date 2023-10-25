@@ -10,7 +10,7 @@ title = "Life Updates"
 +++
 
 
-The beginning of this year I made a [commitment to write at least once a week](__GHOST_URL__/reboot/). For those few people counting, that has clearly not happened. While I don't like to make excuses, I think I have some really good ones that certainly trump blogging in my internal scale of importance. The tl;dr is that life got in the way and I'm totally OK with it.
+The beginning of this year I made a [commitment to write at least once a week](reboot/). For those few people counting, that has clearly not happened. While I don't like to make excuses, I think I have some really good ones that certainly trump blogging in my internal scale of importance. The tl;dr is that life got in the way and I'm totally OK with it.
 
 First off, my wife is pregnant! This will be our second kiddo and we're both excited and a little freaked out. We have clearer expectations than with our first kid, but at the same time, that also means we remember how hard it was that first year or so. When you add in a 4 year old that needs a lot of attention alongside a serious lack of sleep, the result is a wild ride. Thankfully our kiddo is excited about a new baby brother. Fingers crossed it stays that way.
 
