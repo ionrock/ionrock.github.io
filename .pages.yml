@@ -10,8 +10,12 @@ content:
     fields: 
       - name: title
         type: string
+      - name: slug
+        type: string
+      - name: description
+        type: string
       - name: date
         type: date
-      - name: published
+      - name: draft
         type: boolean
       
