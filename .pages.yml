@@ -1,5 +1,11 @@
+media:
+  input: files/media
+  output: /files/media
+  
 content:
   - name: posts
     label: Posts
     path: content/post
     type: collection
+    fields: [ title, date, published ]
+      
