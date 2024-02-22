@@ -7,5 +7,11 @@ content:
     label: Posts
     path: content/post
     type: collection
-    fields: [ title, date, published ]
+    fields: 
+      - name: title
+        type: string
+      - name: date
+        type: date
+      - name: published
+        type: boolean
       
