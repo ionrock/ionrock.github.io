@@ -7,6 +7,16 @@ content:
     label: Posts
     path: content/post
     type: collection
+
+    view:
+      fields: [ title ]
+      primary: title
+      sort: [ date, title ]
+      default:
+        search: ''
+        sort: title
+        order: desc
+
     fields: 
       - name: title
         type: string
