@@ -2,9 +2,11 @@ baseURL: "https://ionrock.org/"
 disablePathToLower: true
 languageCode: "en-us"
 title: "Ionrock Dot Org"
-theme: "PaperMod"
+# theme: "dead-simple"
 
 markup:
+  highlight:
+    style: abap
   markup.goldmark:
     markup.goldmark.renderer:
       unsafe: true
@@ -12,3 +14,10 @@ markup:
 params:
   homeInfoParams:
     Title: "The Personal Site of Eric Larson"
+
+module:
+  imports:
+    - path: github.com/barklan/hugo-dead-simple
+
+statidDir:
+  - static
