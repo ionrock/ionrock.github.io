@@ -1,11 +1,11 @@
-+++
-date = 2018-12-30T17:37:10Z
-description = ""
-draft = true
-slug = "here-is-a-sample"
-title = "(Untitled)"
+---
+date: 2018-12-30T17:37:10Z
+description: ""
+draft: true
+slug: "here-is-a-sample"
+title: "(Untitled)"
 
-+++
+---
 ![Photo by Marko Pekic](https://images.unsplash.com/photo-1475691058852-37b5d9b6a878?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ")
 
 I recently listened to a podcast about [open offices](http://freakonomics.com/podcast/open-offices/). What was interesting was that the metric used to measure success was the amount of communication taking place. The thinking was that if people are communicating more, there were more opportunities for "collisions" that could introduce valuable insights. My theory is that open offices are primarily about cost savings and little else. Cubicles are cheap and open offices are going to be cheaper, especially as your business grows and changes.

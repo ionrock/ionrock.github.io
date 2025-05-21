@@ -1,14 +1,13 @@
-+++
-categories = ["management"]
-date = 2019-01-14T22:30:00Z
-description = ""
-draft = false
-slug = "tactics-strategy-mission-and-vision"
-summary = "My attempt to understand tactics, strategy, mission and vision as it pertains to organizations."
-tags = ["management"]
-title = "Tactics, Strategy, Mission and Vision"
-
-+++
+---
+categories: ["management"]
+date: 2019-01-14T22:30:00Z
+description: ""
+draft: false
+slug: "tactics-strategy-mission-and-vision"
+summary: "My attempt to understand tactics, strategy, mission and vision as it pertains to organizations."
+tags: ["management"]
+title: "Tactics, Strategy, Mission and Vision"
+---
 
 
 When I read about "strategy" I'm often not clear on what the intent is for a business or leader. Is strategy more general and long term where as a tactic is typically limited? I've [read](https://diogomonica.com/2018/10/07/a-pirates-take-on-strategy-vs-tactics/) "Tactics is the use of armed forces to win battles; strategy is the use of battles to win the war.”  This all makes sense in the abstract, but when I try to define a "strategy" or "tactic" it gets murky fast.

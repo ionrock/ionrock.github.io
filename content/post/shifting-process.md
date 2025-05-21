@@ -1,11 +1,10 @@
-+++
-date = 2021-11-06T03:43:23Z
-description = ""
-draft = true
-slug = "shifting-process"
-title = "Shifting Process"
-
-+++
+---
+date: 2021-11-06T03:43:23Z
+description: ""
+draft: true
+slug: "shifting-process"
+title: "Shifting Process"
+---
 
 
 One interesting aspect of adopting agile tools or techniques in your development process is that feels like you're moving towards the perfect process. The team is firing on all cylinders, filling out perfect stories, and ceremonies are fun and reflective of the teams passion for making the customer elated. The promise of an agile process has been realized and life is good forever! But, we know that isn't true. Some people hear "ceremony" and immediately check out. Memories quickly rush to the top of mind about wasting hours in meetings with "stakeholders" that don't have a clue about how a system actually works. There is a reason most engineers have a strong aversion to Jira, with the requirements around writing clear "as a" stories likely making a contribution to the cause. The fact is agile processes don't work for everyone or every team, but that is OK.
@@ -19,6 +18,3 @@ Stand ups provide a really good example of this inevitable shift in processes. O
 I'm not arguing this is a failure of the team or a bad thing. The team is normalizing on what they want to spend time on. Someone might be a big talker with a real need for social interactions and stand up is where that need is met. The team might have hired for that sort of person, so stand ups work well until you hire someone who doesn't fit that mold. Timezones might throw a wrench in things as the company expands to include remote workers. There are tons of reasons why daily stand ups might stop being useful and that is OK. The important thing is that process of changing the process yields understanding about how folks see the work, the team, the mission and the vision.
 
 A really concrete example would be a team that argues they don't want to do stand ups because they have too much work to do. There is a ton of information packed in that statement. The team feels like they have been asked to do so much work that every 15 minutes count. They likely feel overcommitted and that there are high expectations within the organization on what is being delivered. There is a deadline of some sort that is perceived by the team that requires they drop stand ups in the hope they can focus on productive work. These feelings reflect facts about the alignment of the team that needs to be addressed. There is pressure. Maybe it is justified, but likely
-
-
-

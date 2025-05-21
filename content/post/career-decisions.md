@@ -1,13 +1,13 @@
-+++
-categories = ["career"]
-date = 2019-03-28T13:28:43Z
-description = ""
-draft = false
-slug = "career-decisions"
-tags = ["career"]
-title = "Making Career Decisions"
+---
+categories: ["career"]
+date: 2019-03-28T13:28:43Z
+description: ""
+draft: false
+slug: "career-decisions"
+tags: ["career"]
+title: "Making Career Decisions"
+---
 
-+++
 ![Photo by chuttersnap](https://images.unsplash.com/photo-1518336707416-68242ffc0bac?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ")
 
 There are times in your career where you need to make some decision. Finding a new job is a great example, but there are smaller aspects such as taking on a project, doing a side projects or joining a group all can have an impact on your career. There are tons of articles that provide advice for what sorts of things you should do to help your career, but this is more about when you're confronted with a new opportunity and you're trying to evaluate the impact on your career. For example, if you have two job offers, which one should you take?

@@ -1,6 +1,6 @@
 ---
 title: "Startup Realities"
-date: 2024-06-07T11:38:06-05:00
+date: 2024-06-07
 draft: true
 ---
 

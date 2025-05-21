@@ -1,11 +1,10 @@
-+++
-date = 2020-01-22T16:00:29Z
-description = ""
-draft = false
-slug = "running-meetings"
-title = "Running Meetings"
-
-+++
+---
+date: 2020-01-22T16:00:29Z
+description: ""
+draft: false
+slug: "running-meetings"
+title: "Running Meetings"
+---
 
 It shouldn't be surprising that as a manger, you have a lot of meetings. There are the organization wide meetings, syncs with other managers, staff meetings, 1:1s, project meetings, etc. One thing I've tried to do (and struggled with quite a bit) is running efficient meetings with my team. I've gotten reasonably good feedback from my meetings, but at the same time, I've felt that I would have liked to have gotten more out of the meeting. The vast majority of the time, a less than stellar meeting is simply due to a lack of preparation on my part. The product of that preparation is the agenda.
 

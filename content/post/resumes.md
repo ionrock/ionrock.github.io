@@ -1,11 +1,10 @@
-+++
-date = 2021-07-08T15:52:13Z
-description = ""
-draft = false
-slug = "resumes"
-title = "Résumés"
-
-+++
+---
+date: 2021-07-08T15:52:13Z
+description: ""
+draft: false
+slug: "resumes"
+title: "Résumés"
+---
 
 As a manager, I review a lot of resumes. In perfect world, I could read hundreds of resumes and give each a fair, objective chance. The reality is, I need to filter things quickly, while still avoiding my internal biases. With that in mind, I wanted to suggest some simple guidelines candidates can use to help make my life easier, which in turn, offers a better chance moving forward in the process.
 

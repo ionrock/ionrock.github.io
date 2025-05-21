@@ -1,11 +1,11 @@
-+++
-date = 2021-07-08T15:53:06Z
-description = ""
-draft = true
-slug = "naming-things"
-title = "Naming Things"
+---
+date: 2021-07-08T15:53:06Z
+description: ""
+draft: true
+slug: "naming-things"
+title: "Naming Things"
 
-+++
+---
 
 
 I was in a meeting that was titled `$MAJOR_COMPANY_EFFORT` that was really about a smaller task within that effort. It made me realize that the computer science challenge of naming things goes well beyond our software and is relevant to how we work in an organization.
@@ -17,4 +17,3 @@ Going back to this meeting, there was a conversation that went off the rails a b
 When software companies grow, there is typically a push to standardize on practices in order to increase velocity. People are bad at making many tiny decisions because each introduces an opportunity for failure and failure means a person might be ostracized in some form. The desire to be a part of a group is a survival instinct that is part of nature. Standardization removes tiny decisions and helps to remove opportunities to fail, that folks typically don't want to engage in.
 
 It is worthwhile to consider how we can use similar naming to remove consistency and enforce some beneficial behavior. If folks namespace things like meetings and emails, you codify your focus on the reader while enabling tooling like email filters or other software. Someone might not like the style, but that is something folks can get over, especially if they can move faster and are guaranteed to feel included in the organization. I suspect most folks don't try to do this sort of organization because others push back on the corner cases. As a leader though, being able
-

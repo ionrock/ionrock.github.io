@@ -1,11 +1,10 @@
-+++
-date = 2020-11-02T15:18:58Z
-description = ""
-draft = true
-slug = "politics"
-title = "Politics at Work"
-
-+++
+---
+date: 2020-11-02T15:18:58Z
+description: ""
+draft: true
+slug: "politics"
+title: "Politics at Work"
+---
 
 I avoid talking about politics. As a manager this comes up in team meetings, especially as we've been working remotely and dealing with the pandemic. I try to avoid getting involved in any discussion. My ability to be a manager is dependent on my reports being able to trust me. Unfortunately, politics has devolved quite a bit over time to become divisive and a source of negativity that I have no desire to bring into any relationship, especially a work relationship.
 

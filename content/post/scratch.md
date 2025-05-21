@@ -1,11 +1,10 @@
-+++
-date = 2019-01-21T16:56:15Z
-description = ""
-draft = true
-slug = "scratch"
-title = "scratch"
-
-+++
+---
+date: 2019-01-21T16:56:15Z
+description: ""
+draft: true
+slug: "scratch"
+title: "scratch"
+---
 
 ## Marketing the Work
 

@@ -1,11 +1,10 @@
-+++
-date = 2019-09-16T18:07:35Z
-description = ""
-draft = true
-slug = "dad"
-title = "Dad"
-
-+++
+---
+date: 2019-09-16T18:07:35Z
+description: ""
+draft: true
+slug: "dad"
+title: "Dad"
+---
 
 On the evening of September 15th, my Dad passed away. It wasn't terribly sudden, but it certainly was surprising. This photo of my Dad holding my niece Phoebe was taken just a week or two ago. While it is definitely sad and tragic, I'm truly happy that my Dad doesn't have to suffer anymore with Alzheimer's Disease.
 

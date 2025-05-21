@@ -1,13 +1,12 @@
-+++
-categories = ["productivity", "management", "programming"]
-date = 2019-04-05T17:58:12Z
-description = ""
-draft = false
-slug = "getting-started"
-tags = ["productivity", "management", "programming"]
-title = "Getting Started"
-
-+++
+---
+categories: ["productivity", "management", "programming"]
+date: 2019-04-05T17:58:12Z
+description: ""
+draft: false
+slug: "getting-started"
+tags: ["productivity", "management", "programming"]
+title: "Getting Started"
+---
 ![Photo by Eric Ward](https://images.unsplash.com/photo-1493284513035-138df3462fe2?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ")
 
 

@@ -1,11 +1,10 @@
-+++
-date = 2023-09-27T14:54:13Z
-description = ""
-draft = true
-slug = "modern-javascript"
-title = "Modern JavaScript"
-
-+++
+---
+date: 2023-09-27T14:54:13Z
+description: ""
+draft: true
+slug: "modern-javascript"
+title: "Modern JavaScript"
+---
 
 Recently, I've embarked on a journey to write code again. It has been a long time since I've built something, especially with any UI that wasn't a CLI. I don't have any lofty goals to do something innovative. I just want to quickly display and work with data in a database. I had hoped all the new tooling would make this easy. I was wrong.
 

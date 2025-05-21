@@ -1,11 +1,10 @@
-+++
-date = 2020-09-28T16:43:50Z
-description = ""
-draft = true
-slug = "the-social-dilemma"
-title = "The Social Dilemma"
-
-+++
+---
+date: 2020-09-28T16:43:50Z
+description: ""
+draft: true
+slug: "the-social-dilemma"
+title: "The Social Dilemma"
+---
 
 After hearing about it from a few folks at work, I watched [The Social Dilemma](https://www.thesocialdilemma.com/). I had already started down the path of de-googling my life earlier this year to avoid being a part of this system of advertising based information. I definitely think there is a big problem.
 

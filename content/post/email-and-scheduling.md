@@ -1,14 +1,13 @@
-+++
-categories = ["emacs", "notes", "productivity"]
-date = 2019-02-26T17:16:41Z
-description = ""
-draft = false
-slug = "email-and-scheduling"
-summary = "Isn't there some other email and calendar other than G Suite?"
-tags = ["emacs", "notes", "productivity"]
-title = "Email and Scheduling"
-
-+++
+---
+categories: ["emacs", "notes", "productivity"]
+date: 2019-02-26T17:16:41Z
+description: ""
+draft: false
+slug: "email-and-scheduling"
+summary: "Isn't there some other email and calendar other than G Suite?"
+tags: ["emacs", "notes", "productivity"]
+title: "Email and Scheduling"
+---
 
 For a long time I used [Emacs](https://www.gnu.org/software/emacs/) ([mu4e](https://www.djcbsoftware.nl/code/mu/mu4e.html)) for email. It worked pretty well in so far as I was able to quickly read and participate in mailing lists, copy relevant links to my TODO list and work through a healthy amount of email quickly. Generally, things were good, but there was definitely some friction. I really couldn't send HTML emails. This wasn't a huge problem, but it did limit my ability to include images and links were arguably a little kludgey. Personally, I was OK with it, but often times when communicating out to a larger audience in the company I'd go ahead and use the Outlook Web client. Another pain point was that I needed to sync my email on a cadence. Every so often that meant an important email could be a little late. Again, nothing too horrible, outside of missing the context of some conversations around the office for a minute or two.
 

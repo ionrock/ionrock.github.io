@@ -1,11 +1,9 @@
-+++
-date = 2022-09-12T16:57:45Z
-description = ""
-draft = false
-slug = "alignment-and-decision-making"
-title = "Alignment and Decision Making"
-
-+++
+---
+date: 2022-09-12
+slug: "alignment-and-decision-making"
+title: "Alignment and Decision Making"
+draft: false
+---
 
 I've noticed that people often like to break down problems into hierarchies. When we are tasked with thinking about a Mission or Vision, the immediate goal is to define what we're planning for on a longer time horizon. OKRs are another example where the Objective is simply a bigger task than each Key Result. Strategy is another concept that ends up being about the work rather than the impact. The question should be asked then, what the point of Missions, Visions, Strategies, Objectives, etc. if not to break down the work? In a word, it is all about Alignment.
 

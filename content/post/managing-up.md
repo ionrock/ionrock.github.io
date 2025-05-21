@@ -1,14 +1,13 @@
-+++
-categories = ["management", "Writing"]
-date = 2019-02-09T19:21:24Z
-description = ""
-draft = false
-slug = "managing-up"
-summary = "Trying to understand your audience by asking those around you."
-tags = ["management", "Writing"]
-title = "Managing Up"
-
-+++
+---
+categories: ["management", "Writing"]
+date: 2019-02-09T19:21:24Z
+description: ""
+draft: false
+slug: "managing-up"
+summary: "Trying to understand your audience by asking those around you."
+tags: ["management", "Writing"]
+title: "Managing Up"
+---
 
 I had a good conversation where I think I finally started to better understand what my manager and org were looking for in a specific document we maintain. I had never had a problem with having to keep this doc up to date, but at the same time, I always felt I was flying blind as to who the audience was. I had no idea how the content I was writing was landing. Thankfully, I finally got some better visibility and feel more comfortable using this document to manage up.
 

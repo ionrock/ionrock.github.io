@@ -1,11 +1,11 @@
-+++
-date = 2021-09-10T04:47:49Z
-description = ""
-draft = false
-slug = "roadmapping-uncertainty"
-title = "What can you finish?"
+---
+date: 2021-09-10T04:47:49Z
+description: ""
+draft: false
+slug: "roadmapping-uncertainty"
+title: "What can you finish?"
 
-+++
+---
 
 As an Engineering Manager, I'm often trying to coach my team members to think about how to break down tasks. I recently had a more junior engineer take on a task we pointed as an 8. This is typically considered a large task and I did push to see if we could break it down. The team felt that the ticket really couldn't be broken down logically, so I said let's go for it and see what we learn. The junior engineer did a great job on the ticket and got the work done. It ran slightly over schedule as it was something in another team's codebase, but I was impressed with this junior engineer's ability to get the work done in roughly the time expected.
 

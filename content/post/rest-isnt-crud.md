@@ -1,6 +1,6 @@
 ---
 title: "Rest Isn't Crud"
-date: 2024-06-12T09:49:47-05:00
+date: 2024-06-12
 draft: true
 ---
 

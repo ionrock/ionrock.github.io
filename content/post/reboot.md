@@ -1,13 +1,12 @@
-+++
-categories = ["Writing"]
-date = 2019-01-02T03:31:12Z
-description = ""
-draft = false
-slug = "reboot"
-tags = ["Writing"]
-title = "Reboot!"
-
-+++
+---
+categories: ["Writing"]
+date: 2019-01-02T03:31:12Z
+description: ""
+draft: false
+slug: "reboot"
+tags: ["Writing"]
+title: "Reboot!"
+---
 
 
 Long ago I used my blog as a means of learning things like programming languages, databases, etc. It was fun for a while, but I always got hung up on making it easier to blog. As I became more focused as a programmer, I spent even more time trying out new ways to write with the majority being some focus on Emacs. This quest for the perfect authoring environment became painful at some point as well and I punted. I'd use Wordpress.com for a while, or most recently [Medium](https://medium.com/@ionrock), but I'm finding it is still hard to write consistently. My best motivator has typically been committing to a cadence of writing something, so that is what I'm going to do now.
@@ -30,4 +29,3 @@ So here is the plan:
 4. Engage in the larger conversation online
 
 Wish me luck!
-

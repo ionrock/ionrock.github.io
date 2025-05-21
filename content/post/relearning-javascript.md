@@ -1,13 +1,12 @@
-+++
-categories = ["javascript"]
-date = 2019-01-30T20:00:00Z
-description = ""
-draft = false
-slug = "relearning-javascript"
-tags = ["javascript"]
-title = "Relearning JavaScript"
-
-+++
+---
+categories: ["javascript"]
+date: 2019-01-30T20:00:00Z
+description: ""
+draft: false
+slug: "relearning-javascript"
+tags: ["javascript"]
+title: "Relearning JavaScript"
+---
 
 
 I've started to relearn JavaScript after taking a long hiatus. When I first started coding I certainly had the naiveté of youth and jumped on the bandwagon when it came to dissing JavaScript. Thanks to libraries like [Prototype](http://prototypejs.org/), I realized it had a lot of really interesting features such as first class functions and closures. At the same time, web development was always frustrating. Testing in the different browsers was painful and slow. Finding the right lowest common denominator when it came to browser support was a challenge, with CSS box models not making anything easier. Thankfully [jQuery](https://jquery.com/) came along, but by that time I had managed to divert my career lower down the stack and stuck with RESTful APIs and services.

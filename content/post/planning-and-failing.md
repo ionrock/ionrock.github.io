@@ -1,11 +1,11 @@
-+++
-date = 2019-03-26T17:07:50Z
-description = ""
-draft = false
-slug = "planning-and-failing"
-title = "Failing"
+---
+date: 2019-03-26T17:07:50Z
+description: ""
+draft: false
+slug: "planning-and-failing"
+title: "Failing"
 
-+++
+---
 
 
 One challenge I've found is how to fail and learn without ruining plans and losing trust. In order to write up a plan you have to make assumptions. As with any assumption, you can easily get it wrong, throwing your well organized plan into a tailspin. When your assumptions impact commitments to others, it is natural that those folks might lose trust that you'll deliver what you say. At the same time, what about failing fast and learning from those failures?

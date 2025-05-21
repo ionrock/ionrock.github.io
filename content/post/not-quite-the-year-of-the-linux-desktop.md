@@ -1,13 +1,12 @@
-+++
-categories = ["linux", "productivity"]
-date = 2019-03-03T04:16:37Z
-description = ""
-draft = false
-slug = "not-quite-the-year-of-the-linux-desktop"
-tags = ["linux", "productivity"]
-title = "Not Quite the Year of the Linux Desktop"
-
-+++
+---
+categories: ["linux", "productivity"]
+date: 2019-03-03T04:16:37Z
+description: ""
+draft: false
+slug: "not-quite-the-year-of-the-linux-desktop"
+tags: ["linux", "productivity"]
+title: "Not Quite the Year of the Linux Desktop"
+---
 
 Every so often I get tired of looking at the same old screens. It is not as if there are tons of programs I use throughout the day. There is a web browser, slack and Emacs. At some point I get antsy and want to see what is I could improve things. Specifically, I recently was thinking about my desktop environment and if something lighter weight might help save a little power and speed things up. The tl;dr is that I started with the default [GNOME](https://www.gnome.org/) that comes with [Pop_OS](https://system76.com/pop) and I'm going to be continuing with it using a different theme.
 

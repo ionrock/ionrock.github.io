@@ -1,14 +1,13 @@
-+++
-categories = ["documentation", "notes", "Writing"]
-date = 2019-03-28T17:45:00Z
-description = ""
-draft = false
-slug = "new-year-writing-update"
-summary = "I made a commitment to write more this year. Let's see how it is going."
-tags = ["documentation", "notes", "Writing"]
-title = "New Year Writing Update"
-
-+++
+---
+categories: ["documentation", "notes", "Writing"]
+date: 2019-03-28T17:45:00Z
+description: ""
+draft: false
+slug: "new-year-writing-update"
+summary: "I made a commitment to write more this year. Let's see how it is going."
+tags: ["documentation", "notes", "Writing"]
+title: "New Year Writing Update"
+---
 
 I started this year [rebooting](/post/reboot/) my blog and it seemed like a good time to check in on how things are going. As a reminder, here is what I planned on shooting for:
 

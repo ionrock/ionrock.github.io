@@ -1,11 +1,10 @@
-+++
-date = 2022-06-29T15:29:00Z
-description = ""
-draft = false
-slug = "building-tools"
-title = "Great Tools"
-
-+++
+---
+date: 2022-06-29T15:29:00Z
+description: ""
+draft: false
+slug: "building-tools"
+title: "Great Tools"
+---
 
 ![Photo by Todd Quackenbush](https://images.unsplash.com/reserve/oIpwxeeSPy1cnwYpqJ1w_Dufer%20Collateral%20test.jpg?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDEwfHx0b29sc3xlbnwwfHx8fDE2NTI1ODEzNTI&ixlib=rb-1.2.1&q=80&w=2000")
 

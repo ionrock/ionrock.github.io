@@ -1,11 +1,10 @@
-+++
-date = 2023-08-03T16:04:18Z
-description = ""
-draft = false
-slug = "velocity"
-title = "Velocity"
-
-+++
+---
+date: 2023-08-03T16:04:18Z
+description: ""
+draft: false
+slug: "velocity"
+title: "Velocity"
+---
 
 I've been thinking a lot about team velocity. IndyCar's are some of the fastest race cars and get up to a top speed of 236mph, but compared to Top Fuel drag racers that hit 329mph, they are quite a bit slower. The obvious difference is that drag racers don't turn!
 

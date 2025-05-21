@@ -1,11 +1,10 @@
-+++
-date = 2021-10-27T03:15:47Z
-description = ""
-draft = false
-slug = "organizational-trust"
-title = "Organizational Trust"
-
-+++
+---
+date: 2021-10-27T03:15:47Z
+description: ""
+draft: false
+slug: "organizational-trust"
+title: "Organizational Trust"
+---
 
 
 Organizations often focus on results over anything else. Specifically, the focus is on metrics around revenue and growth, which on the surface, makes nothing but sense. At the same time we also know that bad metrics will undoubtedly produce bad outcomes. Squeezing customers for every last nickel often means the customer will find someone else to buy from. Trying to release more features or products may dilute the brand or risk quality. More lines of code doesn't mean teams are productive. While it is easy to bad metrics, what makes a good metric? Put simply, good metrics build organizational trust.

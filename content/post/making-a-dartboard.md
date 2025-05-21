@@ -1,13 +1,12 @@
-+++
-categories = ["management", "documentation"]
-date = 2019-03-12T20:20:10Z
-description = ""
-draft = false
-slug = "making-a-dartboard"
-tags = ["management", "documentation"]
-title = "Making a Dartboard"
-
-+++
+---
+categories: ["management", "documentation"]
+date: 2019-03-12T20:20:10Z
+description: ""
+draft: false
+slug: "making-a-dartboard"
+tags: ["management", "documentation"]
+title: "Making a Dartboard"
+---
 
 
 I mentioned to a mentor of mine that there are tons of resource for working with people as a manager, but there are so few resources for the nuts and bolts of the job. He mentioned that as he has moved up the organizational ladder, the requirements get more vague because many leaders simply don't know what they want. The result is that part of the job is creating a dartboard they can start throwing things at to find out what they actually want.

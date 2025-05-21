@@ -1,13 +1,13 @@
-+++
-categories = ["life"]
-date = 2019-06-29T03:06:47Z
-description = ""
-draft = false
-slug = "life-updates"
-tags = ["life"]
-title = "Life Updates"
+---
+categories: ["life"]
+date: 2019-06-29T03:06:47Z
+description: ""
+draft: false
+slug: "life-updates"
+tags: ["life"]
+title: "Life Updates"
 
-+++
+---
 
 
 The beginning of this year I made a [commitment to write at least once a week](/post/reboot/). For those few people counting, that has clearly not happened. While I don't like to make excuses, I think I have some really good ones that certainly trump blogging in my internal scale of importance. The tl;dr is that life got in the way and I'm totally OK with it.

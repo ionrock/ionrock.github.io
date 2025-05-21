@@ -1,14 +1,14 @@
-+++
-categories = ["management", "empathy", "hiring"]
-date = 2019-01-30T03:53:18Z
-description = ""
-draft = false
-slug = "job-requirements-expanded"
-summary = "I'm looking for someone to join my team! Here is a deeper dive describing what I'm looking for."
-tags = ["management", "empathy", "hiring"]
-title = "Job Requirements Expanded"
+---
+categories: ["management", "empathy", "hiring"]
+date: 2019-01-30T03:53:18Z
+description: ""
+draft: false
+slug: "job-requirements-expanded"
+summary: "I'm looking for someone to join my team! Here is a deeper dive describing what I'm looking for."
+tags: ["management", "empathy", "hiring"]
+title: "Job Requirements Expanded"
 
-+++
+---
 
 I've recently been working on a new project at work where I'll be trying to hire some folks to build a team. The first step has been to write the job description. I thought it would be interesting to expand on what I'm looking for as something of an easter egg for those candidates that do some googling before we chat.
 

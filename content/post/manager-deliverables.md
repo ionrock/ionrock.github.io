@@ -1,11 +1,10 @@
-+++
-date = 2019-12-13T18:52:52Z
-description = ""
-draft = false
-slug = "manager-deliverables"
-title = "Manager Deliverables"
-
-+++
+---
+date: 2019-12-13T18:52:52Z
+description: ""
+draft: false
+slug: "manager-deliverables"
+title: "Manager Deliverables"
+---
 
 One of the hardest things going from programming to managing has been the change in output. People often write about it is challenging being a manager because you don't get those quick wins like you do as a programmer. Some challenging bug doesn't get fix in a day and you don't get repeated test suite passes as you work. Instead, you are forced to look at the larger picture, waiting for projects to get to a state where they can be communicated out for public consumption. At first this wasn't that hard for me to deal with, but I'll admit that now, I'm feeling antsy and would love some way to check in some manager code in the nonexistent manager version control system.
 

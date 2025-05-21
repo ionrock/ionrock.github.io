@@ -1,11 +1,10 @@
-+++
-date = 2020-05-15T03:54:33Z
-description = ""
-draft = false
-slug = "visualizing-work"
-title = "Visualizing Work"
-
-+++
+---
+date: 2020-05-15T03:54:33Z
+description: ""
+draft: false
+slug: "visualizing-work"
+title: "Visualizing Work"
+---
 
 One inevitable part of engineering management is some form of ticket management. For most, that means using Jira, and I've yet to meet someone who likes it. However, despite the distaste for Jira, everyone knows if we didn't have ticket tracking, getting things done would be messy and error-prone. Ticketing tools give you a way to visualize work to ensure you can organize and prioritize effectively. Thinking of Jira as a way to visualize work, as opposed to a big TODO list, makes it possible to have a visual representation of the work. Rather than a set of directions, you get a phone with GPS and maps to help you get you where you want to go.
 

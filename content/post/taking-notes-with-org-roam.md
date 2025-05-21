@@ -1,11 +1,10 @@
-+++
-date = 2020-09-28T16:43:01Z
-description = ""
-draft = false
-slug = "taking-notes-with-org-roam"
-title = "Taking Notes with org-roam"
-
-+++
+---
+date: 2020-09-28T16:43:01Z
+description: ""
+draft: false
+slug: "taking-notes-with-org-roam"
+title: "Taking Notes with org-roam"
+---
 
 As a long time Emacs user and org-mode user, I was hopeful that [org-roam](https://www.orgroam.com/) could tame the plethora of paths offered for taking notes and keeping track of information. The key factor was understanding this article on [How to Take Smart-Notes with Org-mode](https://blog.jethro.dev/posts/how_to_take_smart_notes_org/). I'll admit that when I read the article I essentially just skimmed it and totally missed the way the author uses links to files as tags, rather than tag properties they talk about in the docs. Using tag file links works because org-roam's back link buffer. The back link buffer find other notes that link to the currently open note. For example, if I wanted to see all my notes about `emacs`, I'd open the `emacs` note and the back link buffer would have that listing for me.
 
