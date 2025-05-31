@@ -3,7 +3,7 @@ date: 2018-12-30T17:37:10Z
 description: ""
 draft: true
 slug: "here-is-a-sample"
-title: "(Untitled)"
+title: "Remote Communication"
 
 ---
 ![Photo by Marko Pekic](https://images.unsplash.com/photo-1475691058852-37b5d9b6a878?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ")
